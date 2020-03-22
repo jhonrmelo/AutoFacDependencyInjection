@@ -1,0 +1,5 @@
+D:\Projects\AutoFacDependency\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary.deps.json
+D:\Projects\AutoFacDependency\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+D:\Projects\AutoFacDependency\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\AutoFacDependency\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary.AssemblyInfoInputs.cache
+D:\Projects\AutoFacDependency\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary.AssemblyInfo.cs
